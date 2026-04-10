@@ -46,7 +46,7 @@ export default function App() {
               <a href="#concept" className="hover:text-[#0CC1D4] transition-colors">コンセプト</a>
               <a href="#filters" className="hover:text-[#0CC1D4] transition-colors">5つのフィルター</a>
             </div>
-            <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=ksthV0&liff_id=1656783300-KLG90La1"
+            <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
                target="_blank"
                rel="noreferrer"
                className="bg-[#0CC1D4] text-white px-6 py-2.5 rounded-full text-sm font-bold shadow-md hover:shadow-lg hover:bg-cyan-500 transition-all transform hover:-translate-y-0.5">
@@ -68,7 +68,7 @@ export default function App() {
         </button>
         <a href="#concept" className="text-2xl font-bold text-slate-800" onClick={closeMenu}>コンセプト</a>
         <a href="#filters" className="text-2xl font-bold text-slate-800" onClick={closeMenu}>5つのフィルター</a>
-        <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=ksthV0&liff_id=1656783300-KLG90La1"
+        <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
            target="_blank"
            rel="noreferrer"
            className="bg-[#0CC1D4] text-white px-10 py-4 rounded-full text-lg font-bold shadow-xl">
@@ -386,7 +386,7 @@ export default function App() {
               </div>
 
               <div className="w-full lg:w-auto shrink-0 flex flex-col items-center gap-4">
-                <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=ksthV0&liff_id=1656783300-KLG90La1"
+                <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
                    target="_blank"
                    rel="noreferrer"
                    className="w-full md:w-auto bg-[#F59E0B] hover:bg-[#D97706] text-white font-black text-xl md:text-2xl py-6 px-8 md:py-8 md:px-12 rounded-[2rem] shadow-[0_10px_25px_-5px_rgba(245,158,11,0.5)] transform hover:scale-105 transition-all flex items-center justify-center gap-3">
