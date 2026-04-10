@@ -352,21 +352,13 @@ export default function App() {
         <div className="container mx-auto px-4 relative z-10 space-y-12 md:space-y-16">
           
           <div className="max-w-4xl mx-auto text-center text-white space-y-8">
-            <div className="flex items-center justify-center gap-4 mb-4">
-              <div className="w-16 h-16 md:w-20 md:h-20 bg-white flex items-center justify-center text-cyan-500 font-black text-sm md:text-base shadow-xl rounded-full text-center leading-tight p-2 border-4 border-cyan-100">
-                特別<br/>コラボ
-              </div>
-              <X className="text-white/80 w-5 h-5 md:w-6 md:h-6" />
-              <div className="font-black text-xl md:text-2xl text-white tracking-wider">RakuToku</div>
-            </div>
-            
             <h2 className="text-3xl md:text-5xl font-black leading-tight">
               ご来場いただいた皆様へ<br className="md:hidden" />特別なご案内🌈
             </h2>
             
             <div className="bg-white/10 backdrop-blur-md p-6 md:p-8 rounded-[2rem] inline-block text-left md:text-center text-white/95 text-base md:text-lg border border-white/20 shadow-lg">
               <p className="leading-relaxed">
-                イベントでの素敵な出会いと、<br className="md:hidden" />私たちの「安心できる水」への想いが重なり、<br className="hidden md:block" />
+                マルシェでの素敵な出会いと、<br className="md:hidden" />私たちの「安心できる水」への想いが重なり、<br className="hidden md:block" />
                 ご来場者様だけの特別なキャンペーンをご用意しました。
               </p>
               <p className="mt-6 font-black text-lg md:text-2xl text-yellow-300">
