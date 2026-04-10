@@ -342,7 +342,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* Section 6 & 7: CTA (結マルシェ沖縄Vol.22 Version) */}
+      {/* Section 6 & 7: CTA (Generic Campaign Version) */}
       <section id="cta" className="py-16 md:py-24 bg-gradient-to-br from-[#0CC1D4] to-cyan-600 relative overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute top-0 right-0 w-96 h-96 bg-yellow-300/20 rounded-full blur-3xl transform translate-x-1/3 -translate-y-1/3"></div>
@@ -353,39 +353,25 @@ export default function App() {
           
           <div className="max-w-4xl mx-auto text-center text-white space-y-8">
             <div className="flex items-center justify-center gap-4 mb-4">
-              <div className="w-16 h-16 md:w-20 md:h-20 bg-white flex items-center justify-center text-orange-500 font-black text-sm md:text-base shadow-xl rounded-full text-center leading-tight p-2 border-4 border-orange-100">
-                結<br/>マルシェ
+              <div className="w-16 h-16 md:w-20 md:h-20 bg-white flex items-center justify-center text-cyan-500 font-black text-sm md:text-base shadow-xl rounded-full text-center leading-tight p-2 border-4 border-cyan-100">
+                特別<br/>コラボ
               </div>
               <X className="text-white/80 w-5 h-5 md:w-6 md:h-6" />
               <div className="font-black text-xl md:text-2xl text-white tracking-wider">RakuToku</div>
             </div>
             
             <h2 className="text-3xl md:text-5xl font-black leading-tight">
-              心と体を整えて、<br className="md:hidden" />素敵なご縁が広がる一日🌈
+              ご来場いただいた皆様へ<br className="md:hidden" />特別なご案内🌈
             </h2>
             
             <div className="bg-white/10 backdrop-blur-md p-6 md:p-8 rounded-[2rem] inline-block text-left md:text-center text-white/95 text-base md:text-lg border border-white/20 shadow-lg">
               <p className="leading-relaxed">
-                結マルシェ沖縄が届ける<br className="md:hidden" />「癒し」「新しい出会い」「親子の笑顔」。<br />
-                私たちの「安心できる水」への想いと重なり、<br className="hidden md:block" />
-                今回の特別なコラボが生まれました。
+                イベントでの素敵な出会いと、<br className="md:hidden" />私たちの「安心できる水」への想いが重なり、<br className="hidden md:block" />
+                ご来場者様だけの特別なキャンペーンをご用意しました。
               </p>
               <p className="mt-6 font-black text-lg md:text-2xl text-yellow-300">
                 売るためではなく、<br className="md:hidden" />知ってもらうための無料体験です。
               </p>
-            </div>
-
-            {/* Event Info Box */}
-            <div className="bg-white/5 backdrop-blur-sm p-6 md:p-8 rounded-[2rem] border border-white/10 text-left max-w-2xl mx-auto shadow-inner">
-              <h4 className="font-black text-xl md:text-2xl mb-4 text-yellow-200 flex items-center gap-2">
-                <span className="text-2xl">✨</span> 結マルシェ沖縄Vol.22 開催情報
-              </h4>
-              <ul className="space-y-3 text-sm md:text-base text-white/90">
-                <li className="flex gap-3"><span className="font-bold shrink-0 w-16">日時：</span>2026年4月29日（祝）11:00～16:00</li>
-                <li className="flex gap-3"><span className="font-bold shrink-0 w-16">会場：</span>浦添市産業振興センター 結の街 3F</li>
-                <li className="flex gap-3"><span className="font-bold shrink-0 w-16">入場：</span>無料（駐車場110台無料）</li>
-                <li className="flex gap-3"><span className="font-bold shrink-0 w-16">内容：</span>占い・癒し・グルメ・親子体験など約50ブース大集合！屋外キッチンカーも🚚✨</li>
-              </ul>
             </div>
           </div>
 
@@ -394,7 +380,7 @@ export default function App() {
               
               <div className="flex-1 w-full space-y-6">
                 <div className="text-center lg:text-left border-b-2 border-slate-100 pb-5">
-                  <span className="inline-block bg-orange-100 text-orange-700 text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3">結マルシェ沖縄 限定</span>
+                  <span className="inline-block bg-cyan-100 text-cyan-700 text-xs md:text-sm font-bold px-3 py-1 rounded-full mb-3">本キャンペーン限定</span>
                   <h3 className="text-2xl md:text-3xl font-black text-slate-800">
                     30日間 無料体験内容
                   </h3>
