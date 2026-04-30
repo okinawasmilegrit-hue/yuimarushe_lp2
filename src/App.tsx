@@ -249,8 +249,8 @@ export default function App() {
         <div className="container mx-auto px-4 max-w-5xl">
           <div className="flex flex-col md:flex-row items-center gap-10 md:gap-12">
             <div className="w-full md:w-1/2 flex justify-center">
-              <img src="https://rakutokuwater.smilegrit.com/wp-content/uploads/2022/03/f_main_image.png" 
-                   alt="5本のフィルター" 
+              <img src="https://rakutokuwater.smilegrit.com/wp-content/uploads/2026/02/スクリーンショット-2026-02-25-14.28.28.png" 
+                   alt="赤ちゃんにミルクをあげる様子" 
                    className="max-w-full h-auto object-contain drop-shadow-xl" />
             </div>
             <div className="w-full md:w-1/2 text-center md:text-left space-y-8">
