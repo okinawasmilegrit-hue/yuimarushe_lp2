@@ -118,8 +118,9 @@ export default function App() {
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-5 gap-4 md:gap-6 max-w-7xl mx-auto">
-            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all">
+          <div className="grid grid-cols-1 md:grid-cols-5 gap-4 md:gap-6 max-w-7xl mx-auto mt-8 md:mt-12">
+            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all relative mt-4 md:mt-0">
+              <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-slate-200 group-hover:bg-[#0CC1D4] text-slate-500 group-hover:text-white text-[10px] font-black px-4 py-1 rounded-full uppercase tracking-widest shadow-sm transition-colors whitespace-nowrap">Sediment</span>
               <div className="flex items-end gap-2 mb-4">
                 <span className="text-3xl md:text-4xl font-black text-slate-200 group-hover:text-cyan-100 transition-colors">01</span>
                 <span className="text-[10px] font-black text-[#0CC1D4] uppercase tracking-wider mb-1">Sediment</span>
@@ -127,7 +128,8 @@ export default function App() {
               <h3 className="text-lg font-bold mb-2">セディメント</h3>
               <p className="text-sm text-slate-500 leading-relaxed">砂・サビ・微細な不純物を除去し、後段フィルターを守ります。</p>
             </div>
-            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all">
+            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all relative mt-4 md:mt-0">
+              <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-slate-200 group-hover:bg-[#0CC1D4] text-slate-500 group-hover:text-white text-[10px] font-black px-4 py-1 rounded-full uppercase tracking-widest shadow-sm transition-colors whitespace-nowrap">Pre Carbon</span>
               <div className="flex items-end gap-2 mb-4">
                 <span className="text-3xl md:text-4xl font-black text-slate-200 group-hover:text-cyan-100 transition-colors">02</span>
                 <span className="text-[10px] font-black text-[#0CC1D4] uppercase tracking-wider mb-1">Pre Carbon</span>
@@ -135,7 +137,8 @@ export default function App() {
               <h3 className="text-lg font-bold mb-2">プレカーボン</h3>
               <p className="text-sm text-slate-500 leading-relaxed">活性炭の力で塩素やニオイを吸着し、飲みやすさを整えます。</p>
             </div>
-            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all">
+            <div className="group bg-slate-50 p-6 md:p-8 rounded-[2rem] border-2 border-transparent hover:border-[#0CC1D4] hover:bg-white hover:shadow-xl transition-all relative mt-4 md:mt-0">
+              <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-slate-200 group-hover:bg-[#0CC1D4] text-slate-500 group-hover:text-white text-[10px] font-black px-4 py-1 rounded-full uppercase tracking-widest shadow-sm transition-colors whitespace-nowrap">UF Filter</span>
               <div className="flex items-end gap-2 mb-4">
                 <span className="text-3xl md:text-4xl font-black text-slate-200 group-hover:text-cyan-100 transition-colors">03</span>
                 <span className="text-[10px] font-black text-[#0CC1D4] uppercase tracking-wider mb-1">UF Filter</span>
