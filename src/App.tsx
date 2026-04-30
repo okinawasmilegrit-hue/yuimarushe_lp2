@@ -46,7 +46,7 @@ export default function App() {
               <a href="#concept" className="hover:text-[#0CC1D4] transition-colors">コンセプト</a>
               <a href="#filters" className="hover:text-[#0CC1D4] transition-colors">5つのフィルター</a>
             </div>
-            <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
+            <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=eVTnoy&liff_id=1656783300-KLG90La1"
                target="_blank"
                rel="noreferrer"
                className="bg-[#0CC1D4] text-white px-6 py-2.5 rounded-full text-sm font-bold shadow-md hover:shadow-lg hover:bg-cyan-500 transition-all transform hover:-translate-y-0.5">
@@ -68,7 +68,7 @@ export default function App() {
         </button>
         <a href="#concept" className="text-2xl font-bold text-slate-800" onClick={closeMenu}>コンセプト</a>
         <a href="#filters" className="text-2xl font-bold text-slate-800" onClick={closeMenu}>5つのフィルター</a>
-        <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
+        <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=eVTnoy&liff_id=1656783300-KLG90La1"
            target="_blank"
            rel="noreferrer"
            className="bg-[#0CC1D4] text-white px-10 py-4 rounded-full text-lg font-bold shadow-xl">
@@ -162,6 +162,12 @@ export default function App() {
               <p className="text-sm text-cyan-800 leading-relaxed font-bold">高密度活性炭でPFAS等の微細な化学物質をダブルで徹底除去します。</p>
             </div>
           </div>
+
+          <div className="mt-16 w-full flex justify-center">
+            <img src="https://rakutokuwater.smilegrit.com/wp-content/uploads/2026/04/スクリーンショット-2026-04-15-22.34.11.png"
+                 alt="フィルター構造図"
+                 className="w-full max-w-6xl h-auto object-contain rounded-2xl md:rounded-3xl shadow-xl border-4 border-white" />
+          </div>
         </div>
       </section>
 
@@ -173,9 +179,9 @@ export default function App() {
               <div className="relative group">
                 <div className="absolute inset-0 bg-white/20 rounded-[2rem] md:rounded-[3rem] blur-xl group-hover:bg-white/30 transition-all"></div>
                 <div className="relative rounded-[2rem] md:rounded-[3rem] overflow-hidden shadow-2xl border-4 md:border-8 border-white transform md:-rotate-2">
-                  <img src="https://placehold.co/600x450/fffbeb/f59e0b?text=Family+Smile"
+                  <img src="https://rakutokuwater.smilegrit.com/wp-content/uploads/2026/02/琉宮祭LP素材-1.png"
                        alt="Child drinking water"
-                       className="w-full h-auto object-cover aspect-[4/3]" />
+                       className="w-full h-auto object-cover aspect-[4/3] bg-white rounded-[2rem] md:rounded-[3rem]" />
                   <div className="absolute -bottom-4 -right-4 md:-bottom-6 md:-right-6 bg-white p-4 md:p-6 rounded-full shadow-2xl text-[#0CC1D4] font-black text-center w-28 h-28 md:w-36 md:h-36 flex items-center justify-center flex-col border-4 border-[#E0F7FA] rotate-6">
                     <span className="text-2xl md:text-3xl">笑顔</span>
                     <span className="text-[10px] md:text-xs">のおいしさ</span>
@@ -243,7 +249,7 @@ export default function App() {
         <div className="container mx-auto px-4 max-w-5xl">
           <div className="flex flex-col md:flex-row items-center gap-10 md:gap-12">
             <div className="w-full md:w-1/2 flex justify-center">
-              <img src="https://placehold.co/400x500/e0f2fe/0cc1d4?text=Filter" 
+              <img src="https://rakutokuwater.smilegrit.com/wp-content/uploads/2022/03/f_main_image.png" 
                    alt="5本のフィルター" 
                    className="max-w-full h-auto object-contain drop-shadow-xl" />
             </div>
@@ -386,7 +392,7 @@ export default function App() {
               </div>
 
               <div className="w-full lg:w-auto shrink-0 flex flex-col items-center gap-4">
-                <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=xmddoK&liff_id=1656783300-KLG90La1"
+                <a href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=eVTnoy&liff_id=1656783300-KLG90La1"
                    target="_blank"
                    rel="noreferrer"
                    className="w-full md:w-auto bg-[#F59E0B] hover:bg-[#D97706] text-white font-black text-xl md:text-2xl py-6 px-8 md:py-8 md:px-12 rounded-[2rem] shadow-[0_10px_25px_-5px_rgba(245,158,11,0.5)] transform hover:scale-105 transition-all flex items-center justify-center gap-3">
